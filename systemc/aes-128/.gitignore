@@ -1,0 +1,4 @@
+stratus/*
+!stratus/project.tcl
+!stratus/Makefile
+build/*

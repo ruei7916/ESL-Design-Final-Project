@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1685301828 source:d:\t\ee6470\project\algo\aes\main.cpp
+	<iostream>
+	"src/AES.h"
+
+1684584243 d:\t\ee6470\project\algo\aes\src\aes.h
+	<cstdio>
+	<cstring>
+	<iostream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1684590758 source:d:\t\ee6470\project\algo\aes\src\aes.cpp
+	"AES.h"
+
