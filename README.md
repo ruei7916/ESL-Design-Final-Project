@@ -26,6 +26,7 @@ cd systemc/aes-128/stratus
 make sim_V_DPA
 ```
 ### riscv-vp
+- setup riscv-vp [https://github.com/agra-uni-bremen/riscv-vp](https://github.com/agra-uni-bremen/riscv-vp)
 - copy the files to working directory
   ```bash
   cp -r riscv-vp/vp/* $EE6470/riscv-vp/vp/src/platform
